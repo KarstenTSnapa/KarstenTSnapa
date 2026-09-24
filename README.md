@@ -3,5 +3,3 @@
 #
 
 <h1 style="text-align: center;"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Karsten T Snapa </p>
-
-YO!
